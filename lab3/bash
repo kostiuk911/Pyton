@@ -1,0 +1,6 @@
+/ascii_art_generator
+    /main.py
+    /ascii_art.py
+    /color_output.py
+    /file_operations.py
+    /user_input.py
